@@ -13,17 +13,12 @@ Vanderbilt University <br>
 [Equatorial to Galactic coordinate transformation](./docs/leinert98_coordinates.pdf) <br>
 
 ### Week 2
-[Observation planning tool](http://catserver.ing.iac.es/staralt/index.php) <br>
+[Observation planning tool](https://astro.ing.iac.es/staralt/) <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
 
 ### Week 3
-[HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
+[Davis & Scrimgeour (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.442.1117D/abstract) <br>
 [Filter Response Curves](http://svo2.cab.inta-csic.es/theory/fps/) <br>
-[Flux conversion example](http://stsdas.stsci.edu/astropy_synphot/synphot/units.html) <br>
-[List of SYNPHOT units](https://synphot.readthedocs.io/en/latest/synphot/units.html) <br>
-[SYNPHOT photometric properties](https://synphot.readthedocs.io/en/latest/synphot/formulae.html) <br>
-[SYNPHOT](https://synphot.readthedocs.io/en/latest/) <br>
-[STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
 
 <!-- Upcoming resources are commented out
 [Git](https://git-scm.com/downloads/) <br>
@@ -32,12 +27,12 @@ Vanderbilt University <br>
 
 ### Week 5
 [HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
-[Filter Response Curves](http://svo2.cab.inta-csic.es/theory/fps/) <br>
 [Flux conversion example](http://stsdas.stsci.edu/astropy_synphot/synphot/units.html) <br>
 [List of SYNPHOT units](https://synphot.readthedocs.io/en/latest/synphot/units.html) <br>
 [SYNPHOT photometric properties](https://synphot.readthedocs.io/en/latest/synphot/formulae.html) <br>
 [SYNPHOT](https://synphot.readthedocs.io/en/latest/) <br>
 [STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
+
 
 ### Week 6
 [Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
