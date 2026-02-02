@@ -18,10 +18,9 @@ Vanderbilt University <br>
 | R 22                        | Flux, Magnitudes                                               |[[notes]](./notes/ASTR8060_notes_flux_mag.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 1, 10, 10.8, 11.9|
 | T 27                        | CANCELED DUE TO WEATHER                                        ||
 | R 29                        | CANCELED DUE TO WEATHER                                        ||
+| <ins>February</ins><br> T 3 | Detectors, Statistics                                          |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-5) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
+| R 5                         | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 <!-- Upcoming activities are commented out
-
-| T 27                        | Detectors, Statistics                                          |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
-| R 29                        | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 | <ins>February</ins><br> T 3                        | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
 | R 5                         | Photometry: calibration types                                  |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
 | T 10                         | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-6)|
